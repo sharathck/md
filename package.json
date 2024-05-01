@@ -1,5 +1,6 @@
 {
-  "name": "my-react-app",
+  "name": "React-markdown-editor",
+  "description": "A markdown editor for React.js",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
